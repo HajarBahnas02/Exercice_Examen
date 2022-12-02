@@ -8,6 +8,7 @@ namespace Exercice_Examen
 {
     internal class Durrée
     {
-
+        public String tdebut;
+        public String tfin;
     }
 }
